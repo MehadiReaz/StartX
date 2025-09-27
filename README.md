@@ -287,7 +287,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 *Transform your Flutter development workflow with powerful automation tools*
 
-[![GitHub stars](https://img.shields.io/github/stars/YOUR_USERNAME/flutter-desktop-project-generator?style=social)](https://github.com/MehadiReaz/StartX)
+[![GitHub stars](https://img.shields.io/github/stars/MehadiReaz/StartX?style=social)](https://github.com/MehadiReaz/StartX)
 [![Twitter Follow](https://img.shields.io/twitter/follow/flutterdev?style=social)](https://twitter.com/flutterdev)
 
 </div>
